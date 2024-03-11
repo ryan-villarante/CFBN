@@ -38,7 +38,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/big-5f686aaedb47a8dc6f86b8ce9b100c08-2194398223.jpg",
+        "image": "shopify:\/\/shop_images\/theme_cover_image.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
@@ -84,14 +84,14 @@
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Stay hydrated",
+            "heading": "No Dirty Business",
             "heading_size": "h1"
           }
         },
         "template--18309637636369__f1552b18-6017-4231-810d-74e61da22c37-1680164422d7fb2efc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Try our wax subscription so you can fly high, but never dry.<\/p>",
+            "text": "<p>Our manufacturing partners hold some of the highest standards in social and environmental responsibility with the certifications to back them up.<\/p>",
             "text_style": "body"
           }
         },
