@@ -25,7 +25,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__heading-link .h2 {font-size: 16px;}"
+        ".header__heading-link .h2 {font-size: 16px; color: black; background-color: white;}"
       ],
       "settings": {
         "logo_position": "middle-center",
